@@ -1,4 +1,4 @@
-# Api Admin Portal
+# API Admin Portal
 
 ```tsx
 import React, { useState } from 'react';
